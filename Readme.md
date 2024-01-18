@@ -1,5 +1,6 @@
 # Panda 3.0
-
+## Komentarz do projektu
+To jest projekt grupowy robiony na zajęcia z Inżynierii Oprogramowania (semestr 3 AGH).
 ## Opis
 Panda 3.0 to nowoczesny system zarządzania szkołą, który oferuje szeroki zakres funkcjonalności zarówno dla nauczycieli, 
 uczniów, jak i rodziców. System umożliwia zarządzanie ocenami, planami zajęć, ogłoszeniami oraz dostarcza narzędzia
